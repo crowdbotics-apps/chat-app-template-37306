@@ -73,6 +73,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-contact-us](screens/contact-us)
 - [react-native-chat](modules/chat)
 - [camera]()
+- [screen-account-settings](screens/account-settings)
 
 # Getting started: Frontend
 
