@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-push-notifications](backend/modules)
 - [screen-profile](screens/profile)
 - [react-native-push-notifications](modules/push-notifications)
+- [screen-privacy-policy](screens/privacy-policy)
 
 # Getting started: Frontend
 
