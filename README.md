@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-upload-media](screens/upload-media)
 - [react-native-splash](modules/splash)
 - [react-native-social-login](modules/social-login)
+- [screen-settings](screens/settings)
 
 # Getting started: Frontend
 
