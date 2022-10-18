@@ -23,7 +23,6 @@
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
-    "@screens/menu": "file:./screens/menu/",
     "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/profile": "file:./screens/profile/",
