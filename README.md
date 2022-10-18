@@ -72,7 +72,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-invite-friends](screens/invite-friends)
 - [screen-contact-us](screens/contact-us)
 - [react-native-chat](modules/chat)
-- [camera]()
 - [screen-account-settings](screens/account-settings)
 - [terms-and-conditions]()
 - [django-social-auth](backend/modules)
