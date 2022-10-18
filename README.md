@@ -76,6 +76,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-account-settings](screens/account-settings)
 - [terms-and-conditions]()
 - [django-social-auth](backend/modules)
+- [screen-onboarding](screens/onboarding)
 
 # Getting started: Frontend
 
