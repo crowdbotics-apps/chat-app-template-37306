@@ -26,7 +26,6 @@
     "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/profile": "file:./screens/profile/",
-    "@screens/settings": "file:./screens/settings/",
     "@screens/upload-media": "file:./screens/upload-media/",
     "axios": "^0.21.1",
     "react": "17.0.1",

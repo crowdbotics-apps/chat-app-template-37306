@@ -1277,9 +1277,6 @@
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
-"@screens/settings@file:./screens/settings":
-  version "1.0.0"
-
 "@screens/upload-media@file:./screens/upload-media":
   version "1.0.0"
 
